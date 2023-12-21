@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6582b449b8cee568c3e09c58"},"montura":{"color":1.25,"tipo":"flotante"},"vidrio_d":{"graduacion":1.25,"color":"transparente"},"marca":{"$oid":"6582ae48b8cee568c3e09c38"},"vidrio_i":{"graduacion":1.25,"color":"transparente"}}
+{"_id":{"$oid":"65830b8db8cee568c3e09c6f"},"montura":{"color":"negro","tipo":"flotante"},"vidrio_d":{"graduacion":1.25,"color":"transparente"},"marca":{"$oid":"6582ae48b8cee568c3e09c38"},"vidrio_i":{"graduacion":1.25,"color":"transparente"}}

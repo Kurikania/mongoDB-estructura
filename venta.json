@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6582b3e4b8cee568c3e09c54"},"gafas":{"$oid":"6582b449b8cee568c3e09c58"},"created_at":{"$date":"2023-12-13T14:44:26Z"},"client":{"$oid":"6582adc7b8cee568c3e09c36"},"empleado":{"$oid":"6582caeeb8cee568c3e09c69"}}
+{"_id":{"$oid":"65830cbcb8cee568c3e09c77"},"gafas":{"$oid":"65830b8db8cee568c3e09c6f"},"created_at":{"$date":"2023-12-13T14:44:26Z"},"client":{"$oid":"6582adc7b8cee568c3e09c36"},"empleado":{"$oid":"6582caeeb8cee568c3e09c69"}}
